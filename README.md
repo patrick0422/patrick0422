@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username={patrick0422}&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=patrick0422&show_icons=true&theme=midnight-purple)\n
 ![GitHub followers](https://img.shields.io/github/followers/patrick0422?label=Followers&style=social)
 
 <!--
